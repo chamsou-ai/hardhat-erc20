@@ -1,0 +1,93 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/cmax/Desktop/hh-lottery/hardhat-erc20-fcc/contracts/ManualToken.sol": {
+      "lastModificationDate": 1714588468778,
+      "contentHash": "fe0796ce8fa8892ff6d41e7f517f8ada",
+      "sourceName": "contracts/ManualToken.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "TokenERC20",
+        "tokenRecipient"
+      ]
+    },
+    "/home/cmax/Desktop/hh-lottery/hardhat-erc20-fcc/contracts/~ManualToken.sol": {
+      "lastModificationDate": 1714588469562,
+      "contentHash": "fe0796ce8fa8892ff6d41e7f517f8ada",
+      "sourceName": "contracts/~ManualToken.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "TokenERC20",
+        "tokenRecipient"
+      ]
+    }
+  }
+}
